@@ -1,3 +1,3 @@
-It is a capstone project of Electrical&Electronics Engineering Students at Middle East Technical University.
+It is a capstone project of a group of electrical&electronics engineering students at Middle East Technical University.
 
 Only final poster is public in this project.
